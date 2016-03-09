@@ -5,4 +5,5 @@ New Orleans' 177 census tracts. With these tools and data, I create a distance m
 two midpoints. Additionally, I create a second matrix that yields the real-time driving time between the two points. 
 
 Note that the API only allows for 2500 calculations per day for free, so I have a sample at the end of the program that will only create
-the matrices for the first 5 midpoints. 
+the matrices for the first 5 midpoints. Additionally, I include a few demo calculations at the beginning to introduce the user to 
+the functionality of the package. Finally, I upload the midpoints file here as a .csv file. 
